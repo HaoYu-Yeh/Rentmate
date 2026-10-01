@@ -3,11 +3,14 @@
   "publisher": "臺北市政府環境保護局",
   "sourceUrl": "https://data.gov.tw/dataset/136515",
   "license": "政府資料開放授權條款－第1版",
-  "importedAt": "2026-09-08",
-  "originalFile": "●垃圾車清運點位資訊.csv",
-  "rows": 4010,
+  "importedAt": "2026-10-01T08:52:21.949Z",
+  "originalFile": "Taipei official API",
+  "rows": 4012,
   "dataKind": "scheduled-stops",
-  "sourceUpdatedAt": "2026-08-25T16:33:23+08:00",
+  "sourceUpdatedAt": null,
   "taipeiSourceUrl": "https://data.taipei/dataset/detail?id=6bb3304b-4f46-4bb0-8cd1-60c66dcd1cae",
-  "apiUrl": "https://data.taipei/api/v1/dataset/a6e90031-7ec4-4089-afb5-361a4efe7202?scope=resourceAquire"
+  "apiUrl": "https://data.taipei/api/v1/dataset/a6e90031-7ec4-4089-afb5-361a4efe7202?scope=resourceAquire",
+  "invalidCoordinates": 0,
+  "lastCheckedAt": "2026-10-01T08:52:21.949Z",
+  "sha256": "f92a3afd17277de9227493948c15500cfdfe7d555c41bff2ee158bad442dcd86"
 }
