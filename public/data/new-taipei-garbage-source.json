@@ -1,9 +1,9 @@
 {
-  "rows": 26655,
+  "rows": 26574,
   "districts": 29,
   "invalidCoordinates": 0,
   "apiUrl": "https://data.ntpc.gov.tw/api/datasets/edc3ad26-8ae7-4916-a00b-bc6048d19bf8/json",
-  "importedAt": "2026-09-10T10:39:52.186Z",
+  "importedAt": "2026-11-01T09:14:51.123Z",
   "sourceUpdatedAt": null,
-  "sha256": "9e5bfec542e67cc3f0ee7a06732c0c0deaa8ebbca56e5e4ffd1d95eb03911380"
+  "sha256": "6ed340d84dd8fa16f6bd6dc3d8ad9e76c519d4b27dd1681c4a7c8aed63c46d99"
 }
